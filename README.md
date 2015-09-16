@@ -1,5 +1,5 @@
 # wifi_positioned
-WIFi_Positioned_Test
+wifi定位Demo
+RSSI指纹库
+Knn算法
 
-Author --husong
-Email -- husong@54sh.com
